@@ -1,3 +1,3 @@
 console.log("Rodando o sistema de gerenciamento de jogos")
 
-teste alteração 1.
+console.log("teste alteração 1")
